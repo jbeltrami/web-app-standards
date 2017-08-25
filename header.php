@@ -2,9 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Web App Standards</title>
   </head>
   <body>
-
-  </body>
-</html>
